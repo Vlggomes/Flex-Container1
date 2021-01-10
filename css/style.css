@@ -1,0 +1,17 @@
+.Flex-Container1 {
+    background-color: blue;
+    display: flex;
+    flex-direction: column;
+}
+
+.Flex-Container1 > div {
+    background-color:crimson;
+    margin: 10px;
+    padding: 20px;
+    font-size: 35px;
+    width: 100px;
+    text-align: center;
+    line-height: 10px;
+    border-radius: 15px;
+
+}
